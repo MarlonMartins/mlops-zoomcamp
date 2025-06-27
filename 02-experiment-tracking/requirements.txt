@@ -1,4 +1,5 @@
 mlflow
+protobuf
 jupyter
 scikit-learn
 pandas
